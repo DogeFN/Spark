@@ -13,7 +13,7 @@ Then whisper the commands of your choice to the bot
 
 **👉 All Of These Commands Are Done Via Whisper! 👈**
 
-@help = Displays The Commands List The Bot Can Perform
+```@help = Displays The Commands List The Bot Can Perform
 
 @skin = Makes The Bot Equip The Skin Of Your Choice
 
@@ -31,4 +31,4 @@ Then whisper the commands of your choice to the bot
 
  
   @ready = Bot Ready up
- @unready = Bot Unready
+ @unready = Bot Unready ```
