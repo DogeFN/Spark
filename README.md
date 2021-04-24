@@ -11,7 +11,7 @@ Then whisper the commands of your choice to the bot
 
 ## Here Are The Spark Bot Commands!
 
-All Of These Commands Are Done Via Whisper!
+**All Of These Commands Are Done Via Whisper! **
 
 @help = Displays The Commands List The Bot Can Perform
 
