@@ -1,4 +1,4 @@
-# Spark
+# Spark Fortnite Bots
 # Join Our Discord https://discord.gg/dxV2H7s7xb
 Fortnite lobby bot coded in js
 
