@@ -3,9 +3,7 @@
 Fortnite lobby bot coded in js
 
 ## 😃 How to use:
-type -bot YourUserNameGoesHere
-
-
+type `<-bot YourUserNameGoesHere>`
 in commands channel of our discord server 
 the bot will friends Request you
 
