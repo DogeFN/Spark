@@ -32,7 +32,8 @@ Then whisper the commands of your choice to the bot
  
   @ready = Bot Ready up
  @unready = Bot Unready
- #something
+ ```
+
  
  
- ![Alt Text](url)
+ ![](https://cdn.discordapp.com/attachments/807166101167276052/835218071114350642/unknown.png)
