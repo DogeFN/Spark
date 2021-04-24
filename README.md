@@ -1,15 +1,15 @@
 # Spark
-#Join Our Discord https://discord.gg/dxV2H7s7xb
+# Join Our Discord https://discord.gg/dxV2H7s7xb
 Fortnite lobby bot coded in js
 
-##How to use:
+## How to use:
 type -bot YourUserNameGoesHere 
 in commands channel of our discord server 
 the bot will friends Request you
 
 Then whisper the commands of your choice to the bot
 
-###Here Are The Spark Bot Commands!
+## Here Are The Spark Bot Commands!
 
 All Of These Commands Are Done Via Whisper!
 
