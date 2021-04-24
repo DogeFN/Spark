@@ -31,4 +31,4 @@ Then whisper the commands of your choice to the bot
 
  
   @ready = Bot Ready up
- @unready = Bot Unready ```
+ @unready = Bot Unready 
